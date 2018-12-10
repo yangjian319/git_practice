@@ -2,9 +2,12 @@ git add 1.txt
 git status
 git commit -m "first commit 1.txt"
 git push origin master
+<<<<<<< HEAD
 
 git diff 1.txt
 git log --pretty=oneline
 
 git reset --hard commit_id
 
+=======
+>>>>>>> 6b133b7273fd0f031362c617c51a3a872e34195e
