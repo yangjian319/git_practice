@@ -1,2 +1,10 @@
 git add 1.txt
+git status
+git commit -m "first commit 1.txt"
+git push origin master
+
+git diff 1.txt
+git log --pretty=oneline
+
+git reset --hard commit_id
 
